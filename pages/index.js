@@ -46,13 +46,13 @@ export default function Home() {
         </header>
 
         <main className="pt-24 pb-12 px-0 max-w-6xl mx-auto overflow-hidden">
-          <h1 className="text-4xl font-bold mb-8 text-center px-4 dark:text-white">Featured Horses</h1>
+          <h1 className="text-4xl font-bold mb-8 text-center px-4 dark:text-white">Mayo</h1>
           <PhotoGrid photos={samplePhotos} />
         </main>
 
         <footer className="bg-white dark:bg-gray-800 py-6">
           <div className="max-w-6xl mx-auto px-4 text-center text-gray-600 dark:text-gray-300">
-            <p>&copy; 2023 OnlyHorses. All rights reserved.</p>
+            <p>&copy; 2025 OnlyHorses. All rights reserved.</p>
           </div>
         </footer>
       </div>
